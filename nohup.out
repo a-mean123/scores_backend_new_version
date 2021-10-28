@@ -1,0 +1,73 @@
+server works on port 3000
+we're connected to Database !
+1626643924741.jpeg
+1626643946698.jpeg
+1626710679262.jpeg
+1626710967537.jpeg
+1626711071329.jpeg
+1626711139298.jpeg
+1626711228475.jpeg
+1626711376518.jpeg
+1626711629681.jpeg
+1626711228475.jpeg
+1626711376518.jpeg
+1626711629681.jpeg
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/null'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+1626899172063.png
+1626899197377.png
+1626899172063.png
+1626899197377.png
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711228475.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711376518.jpeg'
+Error: ENOENT: no such file or directory, stat '/var/www/scores-backend/upload/1626711629681.jpeg'
+[Error: ENOENT: no such file or directory, unlink '/var/www/scores-backend/upload/1626711228475.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/var/www/scores-backend/upload/1626711228475.jpeg'
+}
+[Error: ENOENT: no such file or directory, unlink '/var/www/scores-backend/upload/1626711376518.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/var/www/scores-backend/upload/1626711376518.jpeg'
+}
+[Error: ENOENT: no such file or directory, unlink '/var/www/scores-backend/upload/1626711629681.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/var/www/scores-backend/upload/1626711629681.jpeg'
+}
+1626899278287.jpeg
+undefined
+1626900339553.jpeg
+1626900359214.jpeg
+1626900359214.jpeg
+1626900390825.jpeg
+1626900416365.jpeg
+1626900612085.jpeg
+1626900664062.jpeg
